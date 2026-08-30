@@ -7,7 +7,7 @@ const logo = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-9KEI
 const fleetImage = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-SK7fZdjeoScjuqxupqTkM9xpPkkuzG.png'
 const heroImages = [
   fleetImage,
-  'https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=1800&q=85',
+  '/hero-slider-2.jpeg',
   'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_-3ssMcjiDFkqZDmHEpPdDQFXHdtOqkw.png',
 ]
 const services = [
